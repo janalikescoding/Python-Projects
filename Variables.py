@@ -1,0 +1,15 @@
+x=5
+x="Muruga"
+print(x)
+y=int(5)
+z=float(5)
+w=str(5)
+print(y)
+print(z)
+print(w)
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(w))
+X=5
+print(X)

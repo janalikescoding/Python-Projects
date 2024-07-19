@@ -1,0 +1,26 @@
+x="#Hello World"
+print(x)
+print(x)
+print(x)
+z="""This
+is
+a
+multiline
+comment
+"""
+print(z)
+"""
+This
+is
+a
+multiline
+comment
+"""
+print(z)
+y="""
+multiline
+comment
+is
+this
+"""
+print(y)
